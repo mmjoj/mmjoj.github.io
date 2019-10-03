@@ -6,7 +6,10 @@ language: 'en-uk'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper2/
+remote_theme : mmistakes/minimal-mistakes
+
+url : https://mmjoj.github.io/
+baseurl: ""
 
 # Website info
 title: Ghost
